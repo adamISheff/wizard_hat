@@ -1,0 +1,10 @@
+body {
+   background: url(stone_wall_1280_720.jpg) no-repeat center center fixed;
+   background-size: cover;
+}
+
+.title {
+  text-align: center;
+  color: aliceblue;
+  padding-top: 1em;
+}
